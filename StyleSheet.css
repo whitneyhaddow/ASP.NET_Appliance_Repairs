@@ -1,0 +1,34 @@
+﻿body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    padding-left: 0 100px 0 100px;
+}
+
+#main {
+    width: 100%;
+    max-width: 900px;
+    padding: 0 10px 40px 10px;
+    border: 1px solid black;
+}
+
+h1 {
+    color: #3a25ee;
+    text-align: center;
+    font-size: 300%;
+}
+
+#lblError {
+    color: #808080;
+    font-size: 0.8em;
+}
+
+#ddlTechnician {
+    width: 200px;
+}
+
